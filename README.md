@@ -1,6 +1,8 @@
 # calculator
 ##  Hello friends, how are you?
-<img src="images/download.jpg">
+
+<img src="images/mashinhesab.jpg" style="height:50% ;width:50% ;">
+
 ### This is a calculator project that was done individually and it took about 1 hour and it also had its own challenges
 
 ## Main description:
