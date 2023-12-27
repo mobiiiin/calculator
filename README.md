@@ -1,5 +1,6 @@
 # calculator
 ##  Hello friends, how are you?
+<img src="images/download.jpg">
 ### This is a calculator project that was done individually and it took about 1 hour and it also had its own challenges
 
 ## Main description:
